@@ -1,8 +1,9 @@
 # 💫 Hii there.. 
 <b>This is <a href="https://vaibhavnirmal2001.github.io/vaibhavnirmal.github.io/" target ="_blank">Vaibhav Nirmal! </a> Final year B.Tech (IT) Student At GCOEA.</b> Currently I'm trainee at Blue Altair.<br>
-<b>Connect:</b> <a href="mailto:vaibhavnirmal2001@gmail.com">vaibhavnirmal2001@gmail.com</a>
+<!-- <b>Connect:</b> <a href="mailto:vaibhavnirmal2001@gmail.com">vaibhavnirmal2001@gmail.com</a> -->
 <br>
-<b>About me: </b> <a href="https://linktr.ee/vaibhavnirmal2001">LinkTree</a>
+<b>About me: </b> <a href="https://linktr.ee/vaibhavnirmal2001">Social and Technical Profiles</a>
+<br>
 <br>
 <b>GitHub: </b> <a href="https://github.com/vaibhavnirmal2001"> Personal GitHub Account</a>
 
